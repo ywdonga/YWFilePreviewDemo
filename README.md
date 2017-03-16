@@ -1,6 +1,9 @@
 # YWFilePreviewDemo
 # iOS QLPreviewController 文件预览
-![](http://upload-images.jianshu.io/upload_images/1760826-28db0a16e4376daf.gif?imageMogr2/auto-orient/strip)
+
+[简书地址](http://www.jianshu.com/p/85562c66648b)
+[iOS QLPreviewController 文件预览](http://www.jianshu.com/p/85562c66648b)
+
 官方SDK提供了一个QLPreviewController，使用它就可以让我们的App在iPhone/iPad中直接预览各个文件了。官方的开发文档中说明其支持的文件类型有：
 
 iWork文档
